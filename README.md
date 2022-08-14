@@ -1,2 +1,0 @@
-# Bitcoin Sentiment Analysis Paper
- 
